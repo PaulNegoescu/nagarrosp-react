@@ -1,0 +1,23 @@
+.movie-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+}
+
+.movie-list h1 {
+  grid-column: span 3;
+}
+
+.card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+
+  border: 1px solid #dfdfdf;
+}
+
+.card img {
+  height: 30vw;
+}
