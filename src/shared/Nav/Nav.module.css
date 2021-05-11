@@ -1,0 +1,38 @@
+.logo {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+
+  background: #333;
+  color: #fff;
+}
+
+.nav ul {
+  display: flex;
+  list-style: none;
+  flex-grow: 1;
+}
+
+.nav a {
+  display: inline-block;
+  padding: 5px 10px;
+
+  color: #fff;
+  text-decoration: none;
+}
+
+.nav a:hover {
+  color: #cecece;
+}
+
+.push-right {
+  margin-right: auto;
+}
+
+.nav .active {
+  color: #bada55;
+}

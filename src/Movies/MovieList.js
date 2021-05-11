@@ -16,7 +16,7 @@ export function MovieList() {
     <section className={styles['movie-list']}>
       <h1>Movies</h1>
       {movies.map((movie) => (
-        <MovieCard data={movie} />
+        <MovieCard data={movie} key={movie.title} />
       ))}
     </section>
   );

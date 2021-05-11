@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import styles from './Movies.module.css';
 
 export function MovieCard({ data }) {
@@ -5,10 +6,10 @@ export function MovieCard({ data }) {
 
   return (
     <article className={styles.card}>
-      <a href="/">
+      <Link to={'/movies/' + data.id}>
         <img src={poster} alt={`${title} poster`} />
         <h2>{title}</h2>
-      </a>
+      </Link>
     </article>
   );
 }
