@@ -1,7 +1,11 @@
-import { Link, NavLink } from 'react-router-dom';
-import styles from './Nav.module.css';
+import { useContext } from "react";
+import { Link, NavLink } from "react-router-dom";
+import { AppContext } from "../../context/AppContext";
+import styles from "./Nav.module.css";
 
 export function Nav() {
+  const { userProfile } = useContext(AppContext);
+
   return (
     <nav className={styles.nav}>
       <Link className={styles.logo} to="/">
@@ -18,21 +22,26 @@ export function Nav() {
             Counter
           </NavLink>
         </li>
-        <li className={styles['push-right']}>
+        <li className={styles["push-right"]}>
           <NavLink activeClassName={styles.active} to="/movies">
             Movies
           </NavLink>
         </li>
-        <li>
-          <NavLink activeClassName={styles.active} to="/login">
-            Login
-          </NavLink>
-        </li>
-        <li>
-          <NavLink activeClassName={styles.active} to="/register">
-            Register
-          </NavLink>
-        </li>
+        {userProfile?.email && `Welcome ${userProfile.email}`}
+        {!userProfile?.email && (
+          <>
+            <li>
+              <NavLink activeClassName={styles.active} to="/login">
+                Login
+              </NavLink>
+            </li>
+            <li>
+              <NavLink activeClassName={styles.active} to="/register">
+                Register
+              </NavLink>
+            </li>
+          </>
+        )}
       </ul>
     </nav>
   );
