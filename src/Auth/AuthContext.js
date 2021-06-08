@@ -1,4 +1,5 @@
 import { createContext, useContext, useState } from 'react';
+import { useLocalStorageState } from '../shared/hooks/useLocalStorageState';
 
 export const AuthContext = createContext();
 
@@ -7,8 +8,8 @@ export function useAuthContext() {
 }
 
 export function AuthContextProvider({ children }) {
-  const [accessToken, setAccessToken] = useState();
-  const [userProfile, setUserProfile] = useState();
+  const [accessToken, setAccessToken] = useLocalStorageState('accessToken');
+  const [userProfile, setUserProfile] = useLocalStorageState('userProfile');
 
   function login(accessToken, userProfile) {
     setAccessToken(accessToken);

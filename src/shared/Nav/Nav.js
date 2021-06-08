@@ -3,7 +3,7 @@ import { useAuthContext } from '../../Auth/AuthContext';
 import styles from './Nav.module.css';
 
 export function Nav() {
-  const { userProfile } = useAuthContext();
+  const { userProfile, logout } = useAuthContext();
 
   return (
     <nav className={styles.nav}>
@@ -26,7 +26,20 @@ export function Nav() {
             Movies
           </NavLink>
         </li>
-        {userProfile?.email && `Welcome ${userProfile.email}`}
+        {userProfile?.email && (
+          <li>
+            `Welcome ${userProfile.email}`,
+            <a
+              href="/"
+              onClick={(e) => {
+                e.preventDefault();
+                logout();
+              }}
+            >
+              Logout
+            </a>
+          </li>
+        )}
         {!userProfile?.email && (
           <>
             <li>

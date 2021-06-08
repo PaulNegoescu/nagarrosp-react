@@ -4,6 +4,16 @@
       "email": "p@p.com",
       "password": "$2a$10$qHAkqgyZ3yZcThVHvn6q1uCWpTXwqiHgvlFGmfN72Exc61GmJhOQG",
       "id": 1
+    },
+    {
+      "email": "paul@paul.com",
+      "password": "$2a$10$6hbBpphFEBqAw7/cu3ujXeYwWpVj7If22iBElW.AblHdd6.cH/kXC",
+      "id": 2
+    },
+    {
+      "email": "p@p.p",
+      "password": "$2a$10$u/kzfmwW6czQHtXlGgFks.f3F32MfZjF6ueR1gMCRP3nQTj1k36nC",
+      "id": 3
     }
   ],
   "movies": [
@@ -23,9 +33,18 @@
       "awards": "Nominated for 7 Oscars. Another 21 wins & 36 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "9.3/10" },
-        { "source": "Rotten Tomatoes", "value": "91%" },
-        { "source": "Metacritic", "value": "80/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "9.3/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "91%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "80/100"
+        }
       ],
       "metascore": 80,
       "imdbrating": 9.3,
@@ -53,9 +72,18 @@
       "awards": "Won 3 Oscars. Another 26 wins & 30 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "9.2/10" },
-        { "source": "Rotten Tomatoes", "value": "98%" },
-        { "source": "Metacritic", "value": "100/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "9.2/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "98%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "100/100"
+        }
       ],
       "metascore": 100,
       "imdbrating": 9.2,
@@ -83,9 +111,18 @@
       "awards": "Won 2 Oscars. Another 157 wins & 163 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "9.0/10" },
-        { "source": "Rotten Tomatoes", "value": "94%" },
-        { "source": "Metacritic", "value": "84/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "9.0/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "94%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "84/100"
+        }
       ],
       "metascore": 84,
       "imdbrating": 9,
@@ -113,9 +150,18 @@
       "awards": "Won 6 Oscars. Another 11 wins & 20 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "9.0/10" },
-        { "source": "Rotten Tomatoes", "value": "98%" },
-        { "source": "Metacritic", "value": "90/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "9.0/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "98%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "90/100"
+        }
       ],
       "metascore": 90,
       "imdbrating": 9,
@@ -143,9 +189,18 @@
       "awards": "Nominated for 3 Oscars. Another 17 wins & 10 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "9.0/10" },
-        { "source": "Rotten Tomatoes", "value": "100%" },
-        { "source": "Metacritic", "value": "96/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "9.0/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "100%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "96/100"
+        }
       ],
       "metascore": 96,
       "imdbrating": 9,
@@ -173,9 +228,18 @@
       "awards": "Won 11 Oscars. Another 198 wins & 124 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.9/10" },
-        { "source": "Rotten Tomatoes", "value": "93%" },
-        { "source": "Metacritic", "value": "94/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.9/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "93%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "94/100"
+        }
       ],
       "metascore": 94,
       "imdbrating": 8.9,
@@ -203,9 +267,18 @@
       "awards": "Won 1 Oscar. Another 69 wins & 75 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.9/10" },
-        { "source": "Rotten Tomatoes", "value": "92%" },
-        { "source": "Metacritic", "value": "94/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.9/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "92%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "94/100"
+        }
       ],
       "metascore": 94,
       "imdbrating": 8.9,
@@ -233,9 +306,18 @@
       "awards": "Won 7 Oscars. Another 83 wins & 49 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.9/10" },
-        { "source": "Rotten Tomatoes", "value": "97%" },
-        { "source": "Metacritic", "value": "94/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.9/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "97%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "94/100"
+        }
       ],
       "metascore": 94,
       "imdbrating": 8.9,
@@ -263,9 +345,18 @@
       "awards": "Won 4 Oscars. Another 151 wins & 219 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.8/10" },
-        { "source": "Rotten Tomatoes", "value": "87%" },
-        { "source": "Metacritic", "value": "74/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.8/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "87%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "74/100"
+        }
       ],
       "metascore": 74,
       "imdbrating": 8.8,
@@ -293,9 +384,18 @@
       "awards": "Nominated for 1 Oscar. Another 11 wins & 37 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.8/10" },
-        { "source": "Rotten Tomatoes", "value": "79%" },
-        { "source": "Metacritic", "value": "66/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.8/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "79%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "66/100"
+        }
       ],
       "metascore": 66,
       "imdbrating": 8.8,
@@ -323,9 +423,18 @@
       "awards": "Won 4 Oscars. Another 115 wins & 126 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.8/10" },
-        { "source": "Rotten Tomatoes", "value": "91%" },
-        { "source": "Metacritic", "value": "92/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.8/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "91%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "92/100"
+        }
       ],
       "metascore": 92,
       "imdbrating": 8.8,
@@ -353,9 +462,18 @@
       "awards": "Won 6 Oscars. Another 44 wins & 75 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.8/10" },
-        { "source": "Rotten Tomatoes", "value": "71%" },
-        { "source": "Metacritic", "value": "82/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.8/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "71%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "82/100"
+        }
       ],
       "metascore": 82,
       "imdbrating": 8.8,
@@ -383,9 +501,18 @@
       "awards": "2 wins & 6 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BOTQ5NDI3MTI4MF5BMl5BanBnXkFtZTgwNDQ4ODE5MDE@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.8/10" },
-        { "source": "Rotten Tomatoes", "value": "97%" },
-        { "source": "Metacritic", "value": "90/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.8/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "97%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "90/100"
+        }
       ],
       "metascore": 90,
       "imdbrating": 8.8,
@@ -413,9 +540,18 @@
       "awards": "Won 2 Oscars. Another 124 wins & 138 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.7/10" },
-        { "source": "Rotten Tomatoes", "value": "95%" },
-        { "source": "Metacritic", "value": "87/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.7/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "95%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "87/100"
+        }
       ],
       "metascore": 87,
       "imdbrating": 8.7,
@@ -443,9 +579,18 @@
       "awards": "Won 4 Oscars. Another 37 wins & 51 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.7/10" },
-        { "source": "Rotten Tomatoes", "value": "88%" },
-        { "source": "Metacritic", "value": "73/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.7/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "88%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "73/100"
+        }
       ],
       "metascore": 73,
       "imdbrating": 8.7,
@@ -473,9 +618,18 @@
       "awards": "Won 1 Oscar. Another 43 wins & 38 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.7/10" },
-        { "source": "Rotten Tomatoes", "value": "96%" },
-        { "source": "Metacritic", "value": "90/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.7/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "96%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "90/100"
+        }
       ],
       "metascore": 90,
       "imdbrating": 8.7,
@@ -503,9 +657,18 @@
       "awards": "Won 1 Oscar. Another 24 wins & 20 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.7/10" },
-        { "source": "Rotten Tomatoes", "value": "94%" },
-        { "source": "Metacritic", "value": "82/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.7/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "94%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "82/100"
+        }
       ],
       "metascore": 82,
       "imdbrating": 8.7,
@@ -533,9 +696,18 @@
       "awards": "Won 5 Oscars. Another 32 wins & 15 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.7/10" },
-        { "source": "Rotten Tomatoes", "value": "94%" },
-        { "source": "Metacritic", "value": "83/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.7/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "94%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "83/100"
+        }
       ],
       "metascore": 83,
       "imdbrating": 8.7,
@@ -563,9 +735,18 @@
       "awards": "Won 4 Oscars. Another 297 wins & 265 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.6/10" },
-        { "source": "Rotten Tomatoes", "value": "98%" },
-        { "source": "Metacritic", "value": "96/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.6/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "98%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "96/100"
+        }
       ],
       "metascore": 96,
       "imdbrating": 8.6,
@@ -592,7 +773,12 @@
       "country": "India",
       "awards": null,
       "poster": "https://m.media-amazon.com/images/M/MV5BOTc2ZTlmYmItMDBhYS00YmMzLWI4ZjAtMTI5YTBjOTFiMGEwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
-      "ratings": [{ "source": "Internet Movie Database", "value": "8.6/10" }],
+      "ratings": [
+        {
+          "source": "Internet Movie Database",
+          "value": "8.6/10"
+        }
+      ],
       "metascore": null,
       "imdbrating": 8.6,
       "imdbvotes": 56761,
@@ -619,9 +805,18 @@
       "awards": "Won 1 Oscar. Another 43 wins & 148 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.6/10" },
-        { "source": "Rotten Tomatoes", "value": "72%" },
-        { "source": "Metacritic", "value": "74/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.6/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "72%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "74/100"
+        }
       ],
       "metascore": 74,
       "imdbrating": 8.6,
@@ -649,9 +844,18 @@
       "awards": "Nominated for 4 Oscars. Another 74 wins & 46 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BOTMwYjc5ZmItYTFjZC00ZGQ3LTlkNTMtMjZiNTZlMWQzNzI5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.6/10" },
-        { "source": "Rotten Tomatoes", "value": "91%" },
-        { "source": "Metacritic", "value": "79/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.6/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "91%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "79/100"
+        }
       ],
       "metascore": 79,
       "imdbrating": 8.6,
@@ -679,9 +883,18 @@
       "awards": "Won 1 Oscar. Another 57 wins & 31 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.6/10" },
-        { "source": "Rotten Tomatoes", "value": "97%" },
-        { "source": "Metacritic", "value": "96/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.6/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "97%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "96/100"
+        }
       ],
       "metascore": 96,
       "imdbrating": 8.6,
@@ -709,9 +922,18 @@
       "awards": "Won 5 Oscars. Another 74 wins & 75 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.6/10" },
-        { "source": "Rotten Tomatoes", "value": "93%" },
-        { "source": "Metacritic", "value": "91/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.6/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "93%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "91/100"
+        }
       ],
       "metascore": 91,
       "imdbrating": 8.6,
@@ -739,9 +961,18 @@
       "awards": "Nominated for 4 Oscars. Another 15 wins & 33 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.6/10" },
-        { "source": "Rotten Tomatoes", "value": "78%" },
-        { "source": "Metacritic", "value": "61/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.6/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "78%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "61/100"
+        }
       ],
       "metascore": 61,
       "imdbrating": 8.6,
@@ -769,9 +1000,18 @@
       "awards": "Won 3 Oscars. Another 69 wins & 52 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.6/10" },
-        { "source": "Rotten Tomatoes", "value": "80%" },
-        { "source": "Metacritic", "value": "59/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.6/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "80%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "59/100"
+        }
       ],
       "metascore": 59,
       "imdbrating": 8.6,
@@ -799,9 +1039,18 @@
       "awards": "Nominated for 1 Oscar. Another 29 wins & 41 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.6/10" },
-        { "source": "Rotten Tomatoes", "value": "83%" },
-        { "source": "Metacritic", "value": "65/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.6/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "83%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "65/100"
+        }
       ],
       "metascore": 65,
       "imdbrating": 8.6,
@@ -829,9 +1078,18 @@
       "awards": "Won 5 Oscars. Another 63 wins & 51 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.6/10" },
-        { "source": "Rotten Tomatoes", "value": "96%" },
-        { "source": "Metacritic", "value": "85/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.6/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "96%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "85/100"
+        }
       ],
       "metascore": 85,
       "imdbrating": 8.6,
@@ -859,9 +1117,18 @@
       "awards": "Won 6 Oscars. Another 52 wins & 29 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.6/10" },
-        { "source": "Rotten Tomatoes", "value": "92%" },
-        { "source": "Metacritic", "value": "90/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.6/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "92%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "90/100"
+        }
       ],
       "metascore": 90,
       "imdbrating": 8.6,
@@ -889,9 +1156,18 @@
       "awards": "8 wins & 2 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BYjBmYTQ1NjItZWU5MS00YjI0LTg2OTYtYmFkN2JkMmNiNWVkXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.6/10" },
-        { "source": "Rotten Tomatoes", "value": "100%" },
-        { "source": "Metacritic", "value": "85/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.6/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "100%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "85/100"
+        }
       ],
       "metascore": 85,
       "imdbrating": 8.6,
@@ -919,9 +1195,18 @@
       "awards": "Nominated for 2 Oscars. Another 5 wins & 6 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BOWE4ZDdhNmMtNzE5ZC00NzExLTlhNGMtY2ZhYjYzODEzODA1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.6/10" },
-        { "source": "Rotten Tomatoes", "value": "100%" },
-        { "source": "Metacritic", "value": "98/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.6/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "100%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "98/100"
+        }
       ],
       "metascore": 98,
       "imdbrating": 8.6,
@@ -949,9 +1234,18 @@
       "awards": "Nominated for 5 Oscars. Another 6 wins & 1 nomination.",
       "poster": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.6/10" },
-        { "source": "Rotten Tomatoes", "value": "94%" },
-        { "source": "Metacritic", "value": "89/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.6/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "94%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "89/100"
+        }
       ],
       "metascore": 89,
       "imdbrating": 8.6,
@@ -979,8 +1273,14 @@
       "awards": "Nominated for 2 Golden Globes. Another 5 wins & 20 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BNjViNWRjYWEtZTI0NC00N2E3LTk0NGQtMjY4NTM3OGNkZjY0XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.5/10" },
-        { "source": "Metacritic", "value": "90/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.5/10"
+        },
+        {
+          "source": "Metacritic",
+          "value": "90/100"
+        }
       ],
       "metascore": 90,
       "imdbrating": 8.5,
@@ -1007,7 +1307,12 @@
       "country": "India",
       "awards": "2 wins & 1 nomination.",
       "poster": "https://m.media-amazon.com/images/M/MV5BMjU2NzIzMjYtMGE2ZS00YzgzLWE5MzgtZTFiYTlmOWNlYmJkXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_SX300.jpg",
-      "ratings": [{ "source": "Internet Movie Database", "value": "8.5/10" }],
+      "ratings": [
+        {
+          "source": "Internet Movie Database",
+          "value": "8.5/10"
+        }
+      ],
       "metascore": null,
       "imdbrating": 8.5,
       "imdbvotes": 26240,
@@ -1034,9 +1339,18 @@
       "awards": "Won 3 Oscars. Another 91 wins & 144 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.5/10" },
-        { "source": "Rotten Tomatoes", "value": "94%" },
-        { "source": "Metacritic", "value": "88/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.5/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "94%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "88/100"
+        }
       ],
       "metascore": 88,
       "imdbrating": 8.5,
@@ -1064,9 +1378,18 @@
       "awards": "Nominated for 1 Golden Globe. Another 38 wins & 39 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.5/10" },
-        { "source": "Rotten Tomatoes", "value": "75%" },
-        { "source": "Metacritic", "value": "57/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.5/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "75%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "57/100"
+        }
       ],
       "metascore": 57,
       "imdbrating": 8.5,
@@ -1094,9 +1417,18 @@
       "awards": "Nominated for 2 Oscars. Another 6 wins & 43 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.5/10" },
-        { "source": "Rotten Tomatoes", "value": "76%" },
-        { "source": "Metacritic", "value": "66/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.5/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "76%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "66/100"
+        }
       ],
       "metascore": 66,
       "imdbrating": 8.5,
@@ -1124,9 +1456,18 @@
       "awards": "Won 4 Oscars. Another 93 wins & 141 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.5/10" },
-        { "source": "Rotten Tomatoes", "value": "90%" },
-        { "source": "Metacritic", "value": "85/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.5/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "90%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "85/100"
+        }
       ],
       "metascore": 85,
       "imdbrating": 8.5,
@@ -1154,9 +1495,18 @@
       "awards": "Won 3 Oscars. Another 54 wins & 74 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.5/10" },
-        { "source": "Rotten Tomatoes", "value": "95%" },
-        { "source": "Metacritic", "value": "85/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.5/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "95%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "85/100"
+        }
       ],
       "metascore": 85,
       "imdbrating": 8.5,
@@ -1184,9 +1534,18 @@
       "awards": "Won 5 Oscars. Another 54 wins & 106 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.5/10" },
-        { "source": "Rotten Tomatoes", "value": "77%" },
-        { "source": "Metacritic", "value": "67/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.5/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "77%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "67/100"
+        }
       ],
       "metascore": 67,
       "imdbrating": 8.5,
@@ -1214,9 +1573,18 @@
       "awards": "Nominated for 1 Oscar. Another 4 wins & 14 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BZjA0MTM4MTQtNzY5MC00NzY3LWI1ZTgtYzcxMjkyMzU4MDZiXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.5/10" },
-        { "source": "Rotten Tomatoes", "value": "83%" },
-        { "source": "Metacritic", "value": "62/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.5/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "83%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "62/100"
+        }
       ],
       "metascore": 62,
       "imdbrating": 8.5,
@@ -1244,9 +1612,18 @@
       "awards": "Won 2 Oscars. Another 35 wins & 17 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.5/10" },
-        { "source": "Rotten Tomatoes", "value": "89%" },
-        { "source": "Metacritic", "value": "77/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.5/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "89%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "77/100"
+        }
       ],
       "metascore": 77,
       "imdbrating": 8.5,
@@ -1274,9 +1651,18 @@
       "awards": "6 wins & 15 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BODllNWE0MmEtYjUwZi00ZjY3LThmNmQtZjZlMjI2YTZjYmQ0XkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.5/10" },
-        { "source": "Rotten Tomatoes", "value": "74%" },
-        { "source": "Metacritic", "value": "64/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.5/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "74%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "64/100"
+        }
       ],
       "metascore": 64,
       "imdbrating": 8.5,
@@ -1304,9 +1690,18 @@
       "awards": "Won 2 Oscars. Another 36 wins & 35 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.5/10" },
-        { "source": "Rotten Tomatoes", "value": "93%" },
-        { "source": "Metacritic", "value": "88/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.5/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "93%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "88/100"
+        }
       ],
       "metascore": 88,
       "imdbrating": 8.5,
@@ -1334,9 +1729,18 @@
       "awards": "Won 4 Oscars. Another 32 wins & 33 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.5/10" },
-        { "source": "Rotten Tomatoes", "value": "93%" },
-        { "source": "Metacritic", "value": "75/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.5/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "93%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "75/100"
+        }
       ],
       "metascore": 75,
       "imdbrating": 8.5,
@@ -1364,9 +1768,18 @@
       "awards": "Won 1 Oscar. Another 24 wins & 32 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.5/10" },
-        { "source": "Rotten Tomatoes", "value": "90%" },
-        { "source": "Metacritic", "value": "80/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.5/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "90%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "80/100"
+        }
       ],
       "metascore": 80,
       "imdbrating": 8.5,
@@ -1394,8 +1807,14 @@
       "awards": "3 wins.",
       "poster": "https://m.media-amazon.com/images/M/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.5/10" },
-        { "source": "Metacritic", "value": "94/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.5/10"
+        },
+        {
+          "source": "Metacritic",
+          "value": "94/100"
+        }
       ],
       "metascore": 94,
       "imdbrating": 8.5,
@@ -1423,9 +1842,18 @@
       "awards": "Won 1 Oscar. Another 19 wins & 25 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.5/10" },
-        { "source": "Rotten Tomatoes", "value": "96%" },
-        { "source": "Metacritic", "value": "87/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.5/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "96%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "87/100"
+        }
       ],
       "metascore": 87,
       "imdbrating": 8.5,
@@ -1453,9 +1881,18 @@
       "awards": "4 wins & 5 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BZGI5MjBmYzYtMzJhZi00NGI1LTk3MzItYjBjMzcxM2U3MDdiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.5/10" },
-        { "source": "Rotten Tomatoes", "value": "95%" },
-        { "source": "Metacritic", "value": "80/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.5/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "95%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "80/100"
+        }
       ],
       "metascore": 80,
       "imdbrating": 8.5,
@@ -1483,9 +1920,18 @@
       "awards": "Nominated for 4 Oscars. Another 5 wins & 10 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.5/10" },
-        { "source": "Rotten Tomatoes", "value": "96%" },
-        { "source": "Metacritic", "value": "97/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.5/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "96%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "97/100"
+        }
       ],
       "metascore": 97,
       "imdbrating": 8.5,
@@ -1513,9 +1959,18 @@
       "awards": "Won 3 Oscars. Another 6 wins & 9 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.5/10" },
-        { "source": "Rotten Tomatoes", "value": "99%" },
-        { "source": "Metacritic", "value": "100/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.5/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "99%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "100/100"
+        }
       ],
       "metascore": 100,
       "imdbrating": 8.5,
@@ -1543,9 +1998,18 @@
       "awards": "4 wins & 1 nomination.",
       "poster": "https://m.media-amazon.com/images/M/MV5BYjJiZjMzYzktNjU0NS00OTkxLWEwYzItYzdhYWJjN2QzMTRlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.5/10" },
-        { "source": "Rotten Tomatoes", "value": "100%" },
-        { "source": "Metacritic", "value": "96/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.5/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "100%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "96/100"
+        }
       ],
       "metascore": 96,
       "imdbrating": 8.5,
@@ -1573,9 +2037,18 @@
       "awards": "3 wins.",
       "poster": "https://m.media-amazon.com/images/M/MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.5/10" },
-        { "source": "Rotten Tomatoes", "value": "98%" },
-        { "source": "Metacritic", "value": "99/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.5/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "98%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "99/100"
+        }
       ],
       "metascore": 99,
       "imdbrating": 8.5,
@@ -1603,9 +2076,18 @@
       "awards": "Nominated for 1 Oscar. Another 35 wins & 51 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BMmExNzU2ZWMtYzUwYi00YmM2LTkxZTQtNmVhNjY0NTMyMWI2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.4/10" },
-        { "source": "Rotten Tomatoes", "value": "90%" },
-        { "source": "Metacritic", "value": "75/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.4/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "90%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "75/100"
+        }
       ],
       "metascore": 75,
       "imdbrating": 8.4,
@@ -1633,9 +2115,18 @@
       "awards": "Won 2 Oscars. Another 112 wins & 234 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.4/10" },
-        { "source": "Rotten Tomatoes", "value": "68%" },
-        { "source": "Metacritic", "value": "59/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.4/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "68%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "59/100"
+        }
       ],
       "metascore": 59,
       "imdbrating": 8.4,
@@ -1663,8 +2154,14 @@
       "awards": "19 wins & 11 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BNWJhMDlmZGUtYzcxNS00NDRiLWIwNjktNDY1Mjg3ZjBkYzY0XkEyXkFqcGdeQXVyMTU4MjUwMjI@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.4/10" },
-        { "source": "Rotten Tomatoes", "value": "92%" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.4/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "92%"
+        }
       ],
       "metascore": null,
       "imdbrating": 8.4,
@@ -1691,7 +2188,12 @@
       "country": "India",
       "awards": "11 wins & 6 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BY2FiMTFmMzMtZDI2ZC00NDQyLWExYTUtOWNmZWM1ZDg5YjVjXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_SX300.jpg",
-      "ratings": [{ "source": "Internet Movie Database", "value": "8.4/10" }],
+      "ratings": [
+        {
+          "source": "Internet Movie Database",
+          "value": "8.4/10"
+        }
+      ],
       "metascore": null,
       "imdbrating": 8.4,
       "imdbvotes": 29234,
@@ -1718,9 +2220,18 @@
       "awards": "16 wins & 26 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.4/10" },
-        { "source": "Rotten Tomatoes", "value": "98%" },
-        { "source": "Metacritic", "value": "79/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.4/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "98%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "79/100"
+        }
       ],
       "metascore": 79,
       "imdbrating": 8.4,
@@ -1748,8 +2259,14 @@
       "awards": "23 wins & 6 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.4/10" },
-        { "source": "Rotten Tomatoes", "value": "88%" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.4/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "88%"
+        }
       ],
       "metascore": null,
       "imdbrating": 8.4,
@@ -1777,9 +2294,18 @@
       "awards": "Won 1 Oscar. Another 79 wins & 56 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.4/10" },
-        { "source": "Rotten Tomatoes", "value": "97%" },
-        { "source": "Metacritic", "value": "87/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.4/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "97%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "87/100"
+        }
       ],
       "metascore": 87,
       "imdbrating": 8.4,
@@ -1807,9 +2333,18 @@
       "awards": "Nominated for 1 Oscar. Another 69 wins & 110 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.4/10" },
-        { "source": "Rotten Tomatoes", "value": "94%" },
-        { "source": "Metacritic", "value": "78/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.4/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "94%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "78/100"
+        }
       ],
       "metascore": 78,
       "imdbrating": 8.4,
@@ -1837,9 +2372,18 @@
       "awards": "Nominated for 1 Oscar. Another 46 wins & 75 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.4/10" },
-        { "source": "Rotten Tomatoes", "value": "85%" },
-        { "source": "Metacritic", "value": "68/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.4/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "85%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "68/100"
+        }
       ],
       "metascore": 68,
       "imdbrating": 8.4,
@@ -1867,8 +2411,14 @@
       "awards": "1 win & 2 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BYmJhZmJlYTItZmZlNy00MGY0LTg0ZGMtNWFkYWU5NTA1YTNhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.2/10" },
-        { "source": "Rotten Tomatoes", "value": "80%" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.2/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "80%"
+        }
       ],
       "metascore": null,
       "imdbrating": 8.2,
@@ -1896,9 +2446,18 @@
       "awards": "Won 2 Oscars. Another 109 wins & 39 nominations.",
       "poster": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_SX300.jpg",
       "ratings": [
-        { "source": "Internet Movie Database", "value": "8.4/10" },
-        { "source": "Rotten Tomatoes", "value": "97%" },
-        { "source": "Metacritic", "value": "81/100" }
+        {
+          "source": "Internet Movie Database",
+          "value": "8.4/10"
+        },
+        {
+          "source": "Rotten Tomatoes",
+          "value": "97%"
+        },
+        {
+          "source": "Metacritic",
+          "value": "81/100"
+        }
       ],
       "metascore": 81,
       "imdbrating": 8.4,
